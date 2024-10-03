@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- - - - - - - - - - -
+##########################
+## Server-Panel Deluxe ###
+### 7 Days to Die-Mod ####
+##########################
+####### Eihwaz © #########
+##### www.eihwaz.de ######
+##########################
+- - - - - - - - - - - - - -->
+
+<!-- Ersetze die URL und lade die Datei hoch (z. B. Github) -->
+<!-- Öffnen Sie die Datei und klicken Sie auf die Schaltfläche „Raw“ (auf der rechten Seite) -->
+<!-- Kopieren Sie die URL und fügen Sie sie in windows.xml ein -->
+
+<eihwaz.de>
+	<Eintrag>
+		<link>https://discord.com/invite/8DTBy8CaE7</link>
+		<!-- Rest unverändert lassen -->
+		<Datum>2024-01-01 12:00:00Z</Datum>
+		<Titel>Server Panel Deluxe</Titel>
+		<text></text><bildrelpfad></bildrelpfad>
+	</Eintrag>
+</eihwaz.de>
