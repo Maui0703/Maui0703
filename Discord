@@ -1,23 +1,9 @@
-<!-- - - - - - - - - - -
-##########################
-## Server-Panel Deluxe ###
-### 7 Days to Die-Mod ####
-##########################
-####### Eihwaz © #########
-##### www.eihwaz.de ######
-##########################
-- - - - - - - - - - - - - -->
-
-<!-- Ersetze die URL und lade die Datei hoch (z. B. Github) -->
-<!-- Öffnen Sie die Datei und klicken Sie auf die Schaltfläche „Raw“ (auf der rechten Seite) -->
-<!-- Kopieren Sie die URL und fügen Sie sie in windows.xml ein -->
-
-<eihwaz.de>
-	<Eintrag>
-		<link>https://discord.gg/4Csc759nh2</link>
-		<!-- Rest unverändert lassen -->
-		<Datum>2024-01-01 12:00:00Z</Datum>
-		<Titel>Server Panel Deluxe</Titel>
-		<text></text><bildrelpfad></bildrelpfad>
-	</Eintrag>
-</eihwaz.de>
+<news>
+  <entry>
+    <date>2024-07-31 00:00:00Z</date>
+    <title>TechFreq Discord</title>
+    <text>Join the Zombieland Discord for Support</text>
+    <link>https://discord.gg/4Csc759nh2</link>
+	<imagerelpath></imagerelpath>
+  </entry>
+</news>
